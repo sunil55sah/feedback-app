@@ -46,20 +46,6 @@ feedback-app/
 ├── WEB-INF/
 │   └── web.xml
 ├── pom.xml
-## Feedback Database Setup
-
-To set up the feedback database, run the following SQL commands:
-
-```sql
-CREATE DATABASE feedback_db;
-USE feedback_db;
-
-CREATE TABLE feedback (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100),
-    email VARCHAR(100),
-    message TEXT
-);
 
 ![Feedback Form](https://github.com/sunil55sah/feedback-app/blob/main/feedback_form.jsp.png?raw=true)
 ![Thank You Page](https://github.com/sunil55sah/feedback-app/blob/main/thank_you.jsp.png?raw=true)
