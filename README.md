@@ -1,0 +1,52 @@
+# Feedback App
+
+A simple Java web application to collect and manage user feedback using Servlets, JSP, JDBC, and MySQL.
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** Java (Servlets), JSP
+- **Database:** MySQL
+- **Build Tool:** Maven
+- **IDE:** Eclipse
+- **Servlet API:** `jakarta.servlet`
+
+## 💡 Features
+
+- Submit user feedback
+- View all feedback entries
+- Stores data in MySQL
+- Clean and responsive UI
+
+## 🛠️ Setup Instructions
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sunil55sah/feedback-app.git
+   
+2. Import into Eclipse as a Maven project.
+
+3. Configure your database:
+
+  Create a MySQL database named feedbackdb
+
+  Update DB credentials in your DAO/config files.
+
+4. Run the project on a server like Tomcat.
+
+📁 Project Structure
+feedback-app/
+├── src/main/java/
+│   └── com.feedback.servlet/
+├── src/main/webapp/
+│   ├── index.jsp
+│   ├── feedback.jsp
+├── WEB-INF/
+│   └── web.xml
+├── pom.xml
+
+##
+Feel free to check it out! Feedback is welcome 😊  
+#Java #JSP #Servlets #FullStackDevelopment #Maven #MySQL #WebDevelopment #GitHub #LinkedIn
