@@ -2,7 +2,7 @@
 
 A simple Java web application to collect and manage user feedback using Servlets, JSP, JDBC, and MySQL.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML, CSS, Bootstrap
 - **Backend:** Java (Servlets), JSP
@@ -11,14 +11,14 @@ A simple Java web application to collect and manage user feedback using Servlets
 - **IDE:** Eclipse
 - **Servlet API:** `jakarta.servlet`
 
-## 💡 Features
+##  Features
 
 - Submit user feedback
 - View all feedback entries
 - Stores data in MySQL
 - Clean and responsive UI
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 Follow these steps to run the project locally:
 
@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 
 4. Run the project on a server like Tomcat.
 
-📁 Project Structure
+ Project Structure
 feedback-app/
 ├── src/main/java/
 │   └── com.feedback.servlet/
@@ -52,5 +52,5 @@ feedback-app/
 ![Feedback List](https://github.com/sunil55sah/feedback-app/blob/main/feedback_list.jsp.png?raw=true)
 
 ##
-Feel free to check it out! Feedback is welcome 😊  
+Feel free to check it out! Feedback is welcome   
 #Java #JSP #Servlets #FullStackDevelopment #Maven #MySQL #WebDevelopment #GitHub #LinkedIn
